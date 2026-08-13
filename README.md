@@ -1,3 +1,8 @@
+## Live Demo
+
+**Live Application:** https://skillgraph-frontend-ej19.onrender.com/
+
+**GitHub Repository:** https://github.com/PranavChandam/SkillGraph
 # SkillGraph
 
 SkillGraph is a graph-powered career skill explorer built using React, Node.js, Express, and CognoDB.
